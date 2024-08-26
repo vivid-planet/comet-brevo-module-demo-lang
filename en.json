@@ -8,6 +8,7 @@
   "dashboard": "Dashboard",
   "editPage.discardChanges": "Discard unsaved changes?",
   "emailCampaign.dividerBlock.displayName": "Divider",
+  "emailCampaign.salutationBlock.displayName": "Salutation",
   "generic.blocks": "Blocks",
   "generic.content": "Content",
   "generic.link": "Link",
