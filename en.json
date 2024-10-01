@@ -1,6 +1,10 @@
 {
   "blocks.link": "Link",
+  "brevoContact.fields.branch": "Branch",
   "brevoContact.fields.salutation": "Last name",
+  "brevoContact.filters.branch.marketing": "Marketing",
+  "brevoContact.filters.branch.news": "News",
+  "brevoContact.filters.branch.products": "Products",
   "brevoContact.filters.salutation.female": "Female",
   "brevoContact.filters.salutation.male": "Male",
   "brevoContact.firstName": "First name",
@@ -33,6 +37,7 @@
   "pages.pages.page.edit.config": "Config",
   "pages.pages.page.edit.pageBlocks.title": "Page",
   "pages.pages.page.edit.preview": "Web preview",
+  "targetGroup.fields.branch": "Branch",
   "targetGroup.fields.salutation": "Salutation",
   "targetGroup.filters.salutation.female": "Female",
   "targetGroup.filters.salutation.male": "Male"
