@@ -9,6 +9,8 @@
   "brevoContact.filters.salutation.male": "Male",
   "brevoContact.firstName": "First name",
   "brevoContact.lastName": "Last name",
+  "cometBrevoModule.richText.placeholder.info": "Placeholders available in the text",
+  "cometBrevoModule.richText.placeholder.salutation": "Dear Mr./Ms. LASTNAME",
   "dashboard": "Dashboard",
   "editPage.discardChanges": "Discard unsaved changes?",
   "emailCampaign.dividerBlock.displayName": "Divider",
